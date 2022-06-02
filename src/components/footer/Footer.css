@@ -1,7 +1,4 @@
 .footer {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
   background-color: #003479;
   min-height: 187px;
   display: flex;
